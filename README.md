@@ -2,7 +2,7 @@
 
 ## About this Demo
 
-This requires a strong knowledge of: Javascript, PHP, [Vuex](https://vuex.vuejs.org/) and [Laravel](https://laravel.com/). It also requires basic knowledge of: [Vue](https://vuejs.org/), CSS and [SCSS](https://sass-lang.com/).
+This requires a strong knowledge of: Javascript, PHP, [Vuex](https://vuex.vuejs.org/) and [Laravel](https://laravel.com/). It also requires knowledge of: [Vue](https://vuejs.org/), CSS and [SCSS](https://sass-lang.com/).
 
 
 
